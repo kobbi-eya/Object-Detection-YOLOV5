@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1571450-the-bottle-is-half-full-beverage-drinking-water-photocase-stock-photo-large.jpeg</filename>
+	<path>C:\Users\MSI\Desktop\Yolo_Object_detection\notes\data_Preparartion\images\1571450-the-bottle-is-half-full-beverage-drinking-water-photocase-stock-photo-large.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>533</width>
+		<height>849</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>174</ymin>
+			<xmax>497</xmax>
+			<ymax>602</ymax>
+		</bndbox>
+	</object>
+</annotation>

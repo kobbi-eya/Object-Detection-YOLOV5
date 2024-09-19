@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>181121LifeMadeLight-Liquids-ingredients-LeahWilliams_1_11zon.jpeg</filename>
+	<path>C:\Users\MSI\Desktop\Yolo_Object_detection\notes\data_Preparartion\images\181121LifeMadeLight-Liquids-ingredients-LeahWilliams_1_11zon.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>382</xmin>
+			<ymin>235</ymin>
+			<xmax>750</xmax>
+			<ymax>982</ymax>
+		</bndbox>
+	</object>
+</annotation>

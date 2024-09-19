@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>360_F_328582842_aaatsJnF4pnKBVZeI0D4NMNRbBWwAL0b_5_11zon.jpeg</filename>
+	<path>C:\Users\MSI\Desktop\Yolo_Object_detection\notes\data_Preparartion\images\360_F_328582842_aaatsJnF4pnKBVZeI0D4NMNRbBWwAL0b_5_11zon.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>19</ymin>
+			<xmax>240</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>

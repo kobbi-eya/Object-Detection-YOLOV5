@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>220px-Botella_de_plC3A1stico_-_PET_4_11zon.jpeg</filename>
+	<path>C:\Users\MSI\Desktop\Yolo_Object_detection\notes\data_Preparartion\images\220px-Botella_de_plC3A1stico_-_PET_4_11zon.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>220</width>
+		<height>382</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>6</ymin>
+			<xmax>160</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+</annotation>

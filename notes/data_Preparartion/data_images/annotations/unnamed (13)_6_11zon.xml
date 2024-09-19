@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>unnamed (13)_6_11zon.jpeg</filename>
+	<path>C:\Users\MSI\Desktop\Yolo_Object_detection\notes\data_Preparartion\images\unnamed (13)_6_11zon.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>143</ymin>
+			<xmax>341</xmax>
+			<ymax>683</ymax>
+		</bndbox>
+	</object>
+</annotation>

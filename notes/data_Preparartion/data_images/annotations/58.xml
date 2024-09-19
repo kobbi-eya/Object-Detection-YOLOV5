@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>58.png</filename>
+	<path>C:\Users\MSI\Desktop\Yolo_Object_detection\notes\data_Preparartion\images\58.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2992</width>
+		<height>2992</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymin>1447</ymin>
+			<xmax>1004</xmax>
+			<ymax>2992</ymax>
+		</bndbox>
+	</object>
+</annotation>

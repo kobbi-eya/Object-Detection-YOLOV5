@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Capsicum-3-1_jpg.rf.0f9afb3b9c354bfab6364f0d6461168c.jpg</filename>
+	<path>C:\Users\MSI\Desktop\Yolo_Object_detection\notes\data_Preparartion\images\Capsicum-3-1_jpg.rf.0f9afb3b9c354bfab6364f0d6461168c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>8</ymin>
+			<xmax>519</xmax>
+			<ymax>639</ymax>
+		</bndbox>
+	</object>
+</annotation>

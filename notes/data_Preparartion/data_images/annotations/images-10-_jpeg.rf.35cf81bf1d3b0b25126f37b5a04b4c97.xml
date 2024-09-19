@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>images-10-_jpeg.rf.35cf81bf1d3b0b25126f37b5a04b4c97.jpg</filename>
+	<path>C:\Users\MSI\Desktop\Yolo_Object_detection\notes\data_Preparartion\images\images-10-_jpeg.rf.35cf81bf1d3b0b25126f37b5a04b4c97.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>47</ymin>
+			<xmax>624</xmax>
+			<ymax>491</ymax>
+		</bndbox>
+	</object>
+</annotation>

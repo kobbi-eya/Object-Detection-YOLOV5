@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>184_1.jpg</filename>
+	<path>C:\Users\MSI\Desktop\Yolo_Object_detection\notes\data_Preparartion\images\184_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>213</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>66</ymin>
+			<xmax>258</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+</annotation>

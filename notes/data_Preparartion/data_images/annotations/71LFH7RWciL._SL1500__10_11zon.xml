@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>71LFH7RWciL._SL1500__10_11zon.jpeg</filename>
+	<path>C:\Users\MSI\Desktop\Yolo_Object_detection\notes\data_Preparartion\images\71LFH7RWciL._SL1500__10_11zon.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1113</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>309</xmin>
+			<ymin>67</ymin>
+			<xmax>642</xmax>
+			<ymax>1448</ymax>
+		</bndbox>
+	</object>
+</annotation>
